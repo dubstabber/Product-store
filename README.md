@@ -1,10 +1,6 @@
-# Product Store
+# [Product Store](https://product-store-55i3.onrender.com)
 
 A modern full-stack e-commerce application for managing product inventory with complete CRUD functionality.
-
-## 🔗 Live Demo
-
-**[View Live Demo](https://product-store-55i3.onrender.com)** - Check out the deployed application!
 
 ## 🚀 Features
 
